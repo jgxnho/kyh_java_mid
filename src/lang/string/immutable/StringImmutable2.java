@@ -6,6 +6,5 @@ public class StringImmutable2 {
         String str2 = str1.concat(" java");
         System.out.println("str1 = " + str1);
         System.out.println("str2 = " + str2);
-
     }
 }
